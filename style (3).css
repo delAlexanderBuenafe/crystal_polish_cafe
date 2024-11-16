@@ -33,7 +33,7 @@ section{
     color: #ffd2ad;
 }
 .btn{
-   text-align: right;
+   text-align: auto;
     display: inline-block;
     margin-top: 1rem;
     border-radius: 5rem;
