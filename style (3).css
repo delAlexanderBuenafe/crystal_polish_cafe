@@ -36,6 +36,7 @@ section{
 .btn{
     text-align: center;
     display: inline-block;
+    justify-content: center;
     margin-top: 1rem auto;
     border-radius: 5rem;
     background: #333;
