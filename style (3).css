@@ -29,14 +29,7 @@ section{
     background: rgba(255, 51, 153, .05);
 
 }
-
-.container {
-    display: flex;
-    justify-content: center; /* Centers the button horizontally */
-    align-items: center; /* Centers the button vertically if needed */
-    height: 100vh; /* Optional: Full height of the viewport */
-}
-
+ 
 .btn {
     border-radius: 5rem;
     background: #333;
