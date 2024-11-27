@@ -57,7 +57,7 @@ header{
     z-index: 1000;
     box-shadow: 0 .5rem 1rem rgb(0, 0, 0, .1);
 }
-<img src="logo-2.png" alt="Description of image" style="width: 150px; height: 150px;">
+<img src="logo-2.png" alt="Description of image">
 }
 
  header .logo{
